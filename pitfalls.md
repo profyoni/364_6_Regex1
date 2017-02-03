@@ -1,0 +1,27 @@
+#Common Errors and Pitfalls
+
+<nppcrypt version="1012">
+<encryption cipher="rijndael256" mode="gcm" encoding="base64" tag="B+231IB04X/laR1qJrHgBA==" />
+<random iv="D93o3gAuoEW/ecWRE/LjnQ==" salt="qs5sb6PtT/cdPYK9HotfCA==" />
+<key algorithm="scrypt" N="16384" r="8" p="1" />
+</nppcrypt>
+fKIpxtAaAqVaYep8O4MyEqcMb4idUP4ndnbaJxUhbpPEy2f6mzwoiV55U38X+lqD
+SLScx3HZA1gUvvFhv7lfvYKwFn4/DA0rRe3v/KfPHNAi1CmrjWnVMypuQa1tiBmH
+B9keOWpgxoCx865dDDxUKc0F+0BokyoO8ZrmMjKvR96NV3eO907NJRn7SHPWKKbH
+6D0u2HxOnLQm8ESYHLZKtqRnKkI0z3DqetUTb35kXKBqjClZUxarY3LbZWdusOZh
+9iYJ5j3z9CpCs4RrU03eqj9mmP6lm+8uoySB8kcciJQ7KJhC05NfeI3tMrO+xNmz
+lgdamk8w3BLq2w6Pf6pYUDTOLv8LNmPeGvPxuT/XBX9j2Z1NXYhYO0HiPEQjUEyk
+7LYIOWt8IWsi0n3NPdP6L/jT+8G2V/1lMxtCTYp2G6HijlPcB4xmARQ6W82V2Fs6
+VMIpU3ojr2Or6ZLLAFHLEH/cmIVwFk1ZtQ03wBXf8lpeWjtOB+5jK0DMC5cC/Ykd
+OLeG6B9T31B+P284p4Klo22S5bgbOTfSQalyrsggnVrRc4OuyGVAId4njOjTVB9P
+o6pNP7OmSAexdgZIl5vjtUD/ca/Up1LEZvuOgYtcnBxMDotkSCvfbJ6SRrLAaqYL
+UVDbkllStd43oJW12Pxplqb0rZAGsPTn4Bod4I3ky8rzFaLecmT8cwdZmytZIWHb
+bGy0+WqyEnFwiOdQwU279xVoXkAl+ONpO5wT+SPFVeq4Hay3x00bj4+NG/MQ5nIt
+DnlLKKLohnl1jKdrOBmb4oEn1hOqAyAxY1q4Lif01tTTdDQkfdvMtY29htB6qVsU
+STQjh7en+sKlClIo8R3GlUOvmQvayprLXqhCqF+rV4M4pCc85XV8LRXB9ccGUSPs
+P1EmpezqXdemsSTQbNKi/UzjSaetfHsxJT5BC94G2v8lNYIH15vorl0BRDWJvGBm
+zVY7Yzmzws3Xnx56MH6rlHxjCftIgDZ0th/jhlku7LIEULCh58Fqrry3ccSX2b5y
+PqZvzNQOw6VmMzRv4gRF969GmD+xk75/KkatZ4HvdHlaGfsk3Rx2qhcEa2qK6Dwx
+ynoGHNZVZYlHh2KqlN3JZWJxMhKXiC+3krg28dZLPmE/gF9f5ilNh1NHc1Ed9gPq
+u+vlCB8eg8VkzBylDTgPzfHGGtnOkzwMxQDfavyYYWnoIexyZRbC2ECukzdYUG+K
+nvjsv4bmkThjdUd7tocE8rPjZyJxLtiSDaY0ekw0MO9sK9fgl2D0pFvCJg==
