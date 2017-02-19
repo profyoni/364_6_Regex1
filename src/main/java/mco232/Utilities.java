@@ -7,7 +7,7 @@ public class Utilities {
     }
 
     public static double celsiusToFahrenheit(double temp) {
-        return temp * 9 / 5 + 32;
+        return temp * 9 / 5 + 32; 
     }
 
     public static double kelvinToCelsius(double temp) {
